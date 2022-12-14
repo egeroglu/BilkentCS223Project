@@ -10,3 +10,6 @@
 <img width="726" alt="Ekran Resmi 2022-12-14 22 01 19" src="https://user-images.githubusercontent.com/62260171/207693926-e7b65536-f8d7-4e02-9af1-e486cc98bec6.png">
 <img width="736" alt="Ekran Resmi 2022-12-14 22 01 55" src="https://user-images.githubusercontent.com/62260171/207693943-92c888e0-e435-4f57-b643-02b68b832347.png">
 <img width="721" alt="Ekran Resmi 2022-12-14 22 02 20" src="https://user-images.githubusercontent.com/62260171/207693953-9b88f211-8669-4c22-a670-6bba7c99977a.png">
+<img width="720" alt="Ekran Resmi 2022-12-14 22 02 20" src="https://user-images.githubusercontent.com/62260171/207696580-b2de47aa-eca9-45e8-839f-b730cf2c911b.png">
+<img width="735" alt="Ekran Resmi 2022-12-14 22 01 55" src="https://user-images.githubusercontent.com/62260171/207696585-e534901f-cfe2-4a98-8ee0-6b6aea287f8a.png">
+<img width="726" alt="Ekran Resmi 2022-12-14 22 01 19" src="https://user-images.githubusercontent.com/62260171/207696601-1bc1ba3a-876d-45cc-81ee-feb6f9da0e4f.png">
