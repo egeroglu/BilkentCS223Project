@@ -13,3 +13,6 @@
 <img width="720" alt="Ekran Resmi 2022-12-14 22 02 20" src="https://user-images.githubusercontent.com/62260171/207696580-b2de47aa-eca9-45e8-839f-b730cf2c911b.png">
 <img width="735" alt="Ekran Resmi 2022-12-14 22 01 55" src="https://user-images.githubusercontent.com/62260171/207696585-e534901f-cfe2-4a98-8ee0-6b6aea287f8a.png">
 <img width="726" alt="Ekran Resmi 2022-12-14 22 01 19" src="https://user-images.githubusercontent.com/62260171/207696601-1bc1ba3a-876d-45cc-81ee-feb6f9da0e4f.png">
+![Tornado-01-370x208](https://user-images.githubusercontent.com/62260171/208268888-808f291b-9881-4572-a6aa-465d4f0f03b8.png)
+![BZ Altyapısı](https://user-images.githubusercontent.com/62260171/208268890-c37becae-1dce-4834-b38b-ae086f23b4c8.png)
+![kapak-03](https://user-images.githubusercontent.com/62260171/208268891-4cde4efa-a00e-46ac-b45a-2c6120e61fb0.png)
